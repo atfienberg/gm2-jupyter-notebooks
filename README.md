@@ -1,1 +1,1 @@
-# $(g-2)$ related jupyter notebooks
+# (g-2) related jupyter notebooks
